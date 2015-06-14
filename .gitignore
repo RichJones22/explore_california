@@ -5,3 +5,5 @@ tempfile.txt
 log/*.log
 log/*.log.[0-9]
 assets/photoshop/
+.idea
+.idea/scopes
